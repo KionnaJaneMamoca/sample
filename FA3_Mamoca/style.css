@@ -1,4 +1,4 @@
-html {
+body {
     background-image: url("brown.jpg");
     background-repeat: no-repeat;
     background-position: center;
@@ -27,7 +27,7 @@ p {
     border-bottom-style: groove;
     width: 500px;
 }
-body span {
+span {
     font-style: italic;
 	font-weight: bold; 
     color: #ffffff;
